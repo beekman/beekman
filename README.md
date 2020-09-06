@@ -1,4 +1,4 @@
-<h3 align="center">Front-end engineer with a passion for solving problems and creative coding</h3>
+<h3 align="center">Full-stack software developer with a passion for creative code, engaging user interfaces, and bringing clarity to complexity.</h3>
 
 - 🔭 I’m currently working on [Shapeways](https://github.com/whateverSpace/shapeways-frontend)
 
