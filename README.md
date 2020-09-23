@@ -16,4 +16,4 @@
 
 Portfolio at [https://benbeekman.dev](https://benbeekman.dev)
 
-<a href="https://linkedin.com/in/linkedin.com/in/beekman/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/beekman/" height="30" width="30" />/in/beekman/</a>
+<a href="https://linkedin.com/in/linkedin.com/in/beekman/" target="blank">/<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin.com/in/beekman/" height="30" width="30" />/beekman/</a>
