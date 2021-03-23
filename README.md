@@ -1,6 +1,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=beekman&hide=stars,issues&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)" alt="beekman" /></p>
 
-## Hi! I'm Ben Beekman, a full-stack software engineer. I care about clean code, the open web, open source software, and making the world a better place with thoughtful tech.
+## Hi! I'm Ben Beekman, a full-stack software engineer. I care about clean code, the open web, open source, community, and tech that makes the world a better place.
 
 ### My Tech Stack
 * **Front-End:** JavaScript, ES6, React, Redux, HTML/CSS
