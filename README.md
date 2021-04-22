@@ -4,13 +4,13 @@
 
 ### My Tech Stack
 * **Front-End:** JavaScript, ES6, React, Redux, HTML/CSS
-* **Back-End:** Node.js, Express, Mongoose, Python, Flask, PHP
-* **Databases:** PostgreSQL, MongoDB
+* **Back-End:** Node.js, Express, Mongoose, Python, PHP
+* **Databases:** PostgreSQL, MongoDB, MySQL
 * **CI/CD:** Travis, Heroku, Netlify, AWS 
 * **Testing Suites:** Jest, QUnit
 * **Dev Practices:** TDD, Scrum, Agile, Git
 ****
 
-My LinkedIn profile: <a href="https://linkedin.com/in/linkedin.com/in/beekman/" target="blank">linkedin.com/in/beekman</a>
+On LinkedIn: [https://linkedin.com/in/linkedin.com/in/beekman/](in/beekman)
 
 My Portfolio: [benbeekman.dev](https://benbeekman.dev)
