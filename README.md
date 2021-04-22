@@ -11,6 +11,6 @@
 * **Dev Practices:** TDD, Scrum, Agile, Git
 ****
 
-On LinkedIn: [https://linkedin.com/in/linkedin.com/in/beekman/](in/beekman)
+On LinkedIn: [/in/beekman](https://linkedin.com/in/beekman)
 
 My Portfolio: [benbeekman.dev](https://benbeekman.dev)
