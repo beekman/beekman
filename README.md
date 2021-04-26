@@ -6,9 +6,9 @@
 * **Front-End:** JavaScript, ES6, React, Redux, HTML/CSS
 * **Back-End:** Node.js, Express, Mongoose, Python, PHP
 * **Databases:** PostgreSQL, MongoDB, MySQL
-* **CI/CD:** Travis, Heroku, Netlify, AWS 
+* **CI/CD:** Travis, Heroku, Netlify, AWS
 * **Testing Suites:** Jest, QUnit
-* **Dev Practices:** TDD, Scrum, Agile, Git
+* **Dev Practices:** TypeScript, TDD, Scrum, Agile, Git
 ****
 
 On LinkedIn: [/in/beekman](https://linkedin.com/in/beekman)
