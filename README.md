@@ -6,8 +6,8 @@
 * **Front-End:** JavaScript, ES6, React, Redux, HTML/CSS
 * **Back-End:** Node.js, Express, Mongoose, Python, PHP
 * **Databases:** PostgreSQL, MongoDB, MySQL
-* **CI/CD:** Travis, Heroku, Netlify, AWS
-* **Testing Suites:** Jest, QUnit
+* **CI/CD:** Travis, Heroku, Netlify
+* **Testing Suites:** Jest, QUnit, pytest
 * **Dev Practices:** TypeScript, TDD, Scrum, Agile, Git
 ****
 
