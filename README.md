@@ -8,7 +8,7 @@
 * **Databases:** PostgreSQL, MongoDB, MySQL
 * **CI/CD:** Travis, Heroku, Netlify
 * **Testing Suites:** Jest, QUnit, pytest
-* **Developer Tools:** TypeScript, TDD, Scrum, Agile, Git
+* **Developer Tools:** TypeScript, Git, ESLint
 ****
 
 On LinkedIn: [/in/beekman](https://linkedin.com/in/beekman)
