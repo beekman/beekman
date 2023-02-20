@@ -6,7 +6,7 @@
 * **Databases:** PostgreSQL, MongoDB, MySQL
 * **CI/CD:** Travis CI, Heroku, Netlify
 * **Testing Suites:** Jest, QUnit, PHPUnit, pytest
-* **Infrastructure** TypeScript, Git, ESLint, Docker, webpack
+* **Infrastructure:** TypeScript, Git, ESLint, Docker, webpack
 ****
 
 On LinkedIn: [/in/beekman](https://linkedin.com/in/beekman)
