@@ -5,8 +5,8 @@
 * **Back-End:** Node.js, Express, Mongoose, Python, PHP
 * **Databases:** PostgreSQL, MongoDB, MySQL
 * **CI/CD:** Travis CI, Heroku, Netlify
-* **Testing Suites:** Jest, QUnit, pytest
-* **Developer Tools:** TypeScript, Git, ESLint, Docker
+* **Testing Suites:** Jest, QUnit, PHPUnit, pytest
+* **Infrastructure** TypeScript, Git, ESLint, Docker, webpack
 ****
 
 On LinkedIn: [/in/beekman](https://linkedin.com/in/beekman)
