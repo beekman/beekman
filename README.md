@@ -4,7 +4,7 @@
 * **Front-End:** JavaScript, ES6, React, Redux, CSS/SASS/Stylus/PostCSS, Next.js, Three.js
 * **Back-End:** Node.js, Express, Mongoose, Python, PHP
 * **Databases:** PostgreSQL, MongoDB, MySQL
-* **Infrastructure:** TypeScript, Git, ESLint, Docker, webpack
+* **Infrastructure:** TypeScript, Git, ESLint, Docker, webpack, gulp
 * **CI/CD:** Travis CI, Heroku, Netlify
 * **Unit Tests** Jest, QUnit, PHPUnit, pytest
 
