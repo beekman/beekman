@@ -4,10 +4,10 @@
 * **Front-End:** JavaScript, ES6, React, Redux, CSS/SASS/Stylus/PostCSS, Next.js, Three.js
 * **Back-End:** Node.js, Express, Mongoose, Python, PHP
 * **Databases:** PostgreSQL, MongoDB, MySQL
-* **CI/CD:** Travis CI, Heroku, Netlify
-* **Testing Suites:** Jest, QUnit, PHPUnit, pytest
-* **Infrastructure:** TypeScript, Git, ESLint, Docker, webpack
+* * **Infrastructure:** TypeScript, Git, ESLint, Docker, webpack
 ****
+* **CI/CD:** Travis CI, Heroku, Netlify
+* **Unit Tests** Jest, QUnit, PHPUnit, pytest
 
 On LinkedIn: [/in/beekman](https://linkedin.com/in/beekman)
 
