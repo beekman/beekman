@@ -1,4 +1,4 @@
-## Hi! I'm Ben Beekman, a full-stack software engineer with a passion for clean code, engaging UI, and bringing clarity to complexity.
+## Hi! I'm Ben Beekman, a full stack software engineer with a passion for clean code, engaging UI, and bringing clarity to complexity.
 
 ### My Tech Stack
 * **Front-End:** JavaScript, ES6, React, Redux, CSS/SASS/Stylus/PostCSS, Next.js, Three.js, Tone.js
