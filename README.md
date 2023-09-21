@@ -1,4 +1,4 @@
-## Hi! I'm Ben Beekman, a full stack software engineer with a passion for clean code, engaging UX, and bringing clarity to complexity.
+## Hi! I'm Ben Beekman, a full stack software engineer who loves clean code, engaging UX, and bringing clarity to complexity.
 
 ### My Tech Stack
 * **Languages:** TypeScript, JavaScript, PHP, Python
